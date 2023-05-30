@@ -1,0 +1,3 @@
+[submodule "bgl-shootout"]
+	path = bgl-shootout
+	url = git@github.com:blockiosaurus/bgl-shootout.git
