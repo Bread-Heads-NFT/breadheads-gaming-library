@@ -1,3 +1,6 @@
 [submodule "bgl-shootout"]
 	path = bgl-shootout
 	url = git@github.com:blockiosaurus/bgl-shootout.git
+[submodule "bgl-dialog-manager"]
+	path = bgl-dialog-manager
+	url = git@github.com:Bread-Heads-NFT/bgl-dialog-manager.git
