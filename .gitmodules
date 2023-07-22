@@ -4,3 +4,6 @@
 [submodule "bgl-dialog-manager"]
 	path = bgl-dialog-manager
 	url = git@github.com:Bread-Heads-NFT/bgl-dialog-manager.git
+[submodule "bgl-maps"]
+	path = bgl-maps
+	url = git@github.com:Bread-Heads-NFT/bgl-maps.git
