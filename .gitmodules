@@ -7,3 +7,6 @@
 [submodule "bgl-maps"]
 	path = bgl-maps
 	url = git@github.com:Bread-Heads-NFT/bgl-maps.git
+[submodule "bgl-path-validator"]
+	path = bgl-path-validator
+	url = git@github.com:Bread-Heads-NFT/bgl-path-validator.git
